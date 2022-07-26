@@ -1,2 +1,2 @@
-# Exerc-cio-de-CPA
+# Exercicio-de-CPA
 Trabalho de CPA
